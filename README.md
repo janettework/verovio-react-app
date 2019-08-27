@@ -1,1 +1,0 @@
-# verovio-react-app
